@@ -27,3 +27,15 @@ Este projeto foi desenvolvido com foco no aprimoramento de habilidades técnicas
 ## 👨‍💻 Sobre o desenvolvimento
 
 Projeto individual com foco em consolidar conhecimentos de aplicações fullstack. O principal destaque está na comunicação entre o frontend React e uma API REST desenvolvida em Spring Boot.
+
+
+## 🖼️ Imagens do sistema
+
+### 📋 Tela de listagem de produtos
+![Tela de listagem](./FrontEnd/src/assets/produtos.png)
+
+### 📝 Tela de cadastro de produto
+![Tela de cadastro](./FrontEnd/src/assets/tela-cadastro.png)
+
+### ✏️ Tela de edição de produto
+![Tela de edição](./FrontEnd/src/assets/tela-edicao.png)
